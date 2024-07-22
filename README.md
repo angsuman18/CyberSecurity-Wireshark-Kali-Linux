@@ -94,21 +94,3 @@ Wireshark can capture and analyze packets from a variety of network protocols. H
 
 Understanding packets and protocols is crucial for effective network analysis, troubleshooting, and security monitoring. 
 
-
-Installing Wireshark on Kali Linux
-Wireshark is typically pre-installed on Kali Linux, but if it’s not available or you need to update it, you can install it using the following steps:
-
-Update the Package List:
-Open a terminal and update the package list to ensure you have the latest versions:
-
-sh
-Copy code
-sudo apt update
-Install Wireshark:
-Install Wireshark using the package manager:
-
-sh
-Copy code
-sudo apt install wireshark
-Configure Wireshark:
-During the installation, you might be prompted to allow non-root users to capture packets. Select "Yes" to configure this setting.
