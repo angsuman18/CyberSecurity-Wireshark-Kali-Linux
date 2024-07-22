@@ -92,4 +92,4 @@ Wireshark can capture and analyze packets from a variety of network protocols. H
    - Identify protocols used in the captured traffic.
    - Follow protocol streams (e.g., follow TCP stream) to analyze complete conversations.
 
-Understanding packets and protocols is crucial for effective network analysis, troubleshooting, and security monitoring. If you need more details on any specific protocol or packet analysis techniques, feel free to ask!
+Understanding packets and protocols is crucial for effective network analysis, troubleshooting, and security monitoring. 
